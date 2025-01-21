@@ -7,7 +7,7 @@
 좋아하는 게임 장르 : FPS, 오픈월드RPG, 경영시뮬레이터
 * 꿀잼게임 만들고 싶습니다.
 ```
-* ![profileImage](./profileImage.png)
+* ![profileImage](./profileImage.jpg)
 ---
 ### 안녕하세요! 장병근입니다.
 **반갑습니다**
