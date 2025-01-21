@@ -1,16 +1,10 @@
 # 안녕하세요 우리는 랜덤 10조 입니다!
 <img src="https://img.sbs.co.kr/newsnet/etv/upload/2017/11/15/30000586054.jpg"></img>
-## 팀원 소개
+-------------
 ### 안녕하세요 이창우입니다.
-1. 테스트1
-2. 테스트2
-3. 테스트3
-
->HelloWorld
-    >HelloWorld
-        >HelloWorld
 ```
-Console.WriteLine("HelloGuys");
+좋아하는 게임 : 오버워치
+좋아하는 게임 장르 : FPS, 오픈월드RPG, 경영시뮬레이터
 ```
 * <img src="./profileImage.png"></img>
 ---
